@@ -8,6 +8,4 @@ When the player hits the space key, the currently moving stack freezes and a new
 
 ### Language Used
 
-- Java
-
 - Processing
